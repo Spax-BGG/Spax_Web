@@ -54,12 +54,13 @@ nav {
     width: 100vw;
     background-color: #00000066;
 
-    font-family: Bellota, Arial, sans-serif;
+    font-family: Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
-    text-align: center;
+    text-align: right;
 }
+
 nav a {
     border: #ffffff;
     color: #ffffff;
@@ -67,9 +68,6 @@ nav a {
     text-decoration: none;
     padding: 5px 20px;
     margin: 15px 5px;
-	border-color: #4CAF50;
-	border-radius: 5px;
-	border: dashed 2px #ffffff;
 }
 
 nav a:after {
@@ -174,13 +172,13 @@ section p {
     background-attachment: fixed;
 }
 
-#E1M2 {
-    background-image: url(../src/images/bg2.jpg);
+#E2M1 {
+    background-color: black;
     background-attachment: fixed;
 }
 
-#E1M3 {
-    background-image: url(../src/images/bg3.jpg);
+#E1M2 {
+    background-image: url(../src/images/bg2.jpg);
     background-attachment: fixed;
 }
 

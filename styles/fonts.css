@@ -45,3 +45,10 @@
     font-style: normal;
     font-weight: normal;
 }
+
+@font-face {
+    font-family: Sans;
+    src: url("../src/fonts/PatsySans.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
